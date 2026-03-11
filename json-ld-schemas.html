@@ -1,0 +1,278 @@
+<!--
+  BLOND:ISH — JSON-LD Structured Data Schemas
+  json-ld-schemas.html
+  blondish.world
+
+  HOW TO USE:
+  Each schema below is a separate "Custom HTML" block in WordPress.
+  Paste ONE schema per page as instructed.
+
+  Search and replace all REPLACE_ tokens with real values before publishing.
+  Validate at: https://search.google.com/test/rich-results
+  Also check:  https://validator.schema.org
+
+  QUICK REPLACE GUIDE:
+  ┌─────────────────────────────────┬──────────────────────────────────────────────────┐
+  │ Token                           │ Replace with                                     │
+  ├─────────────────────────────────┼──────────────────────────────────────────────────┤
+  │ REPLACE_SPOTIFY_ARTIST_ID       │ ID from open.spotify.com/artist/[THIS_PART]      │
+  │ REPLACE_DATE_ISO                │ e.g. 2025-08-15T22:00:00+01:00 (ISO 8601)        │
+  │ REPLACE_VENUE_NAME              │ Fabric, Printworks, etc.                         │
+  │ REPLACE_STREET                  │ Street address of venue                          │
+  │ REPLACE_CITY                    │ City name                                        │
+  │ REPLACE_COUNTRY_CODE            │ 2-letter ISO code: GB, US, DE, FR, etc.          │
+  │ REPLACE_TICKET_URL              │ Direct Seated / RA / event ticket URL            │
+  │ REPLACE_SALE_START_DATE_ISO     │ When tickets went on sale (ISO 8601)             │
+  │ REPLACE_PROJECT_PAGE_URL        │ Full https:// URL of the project page            │
+  │ REPLACE_PROJECT_NAME            │ e.g. "Abracadabra", "Bye Bye Plastic"            │
+  │ REPLACE_PROJECT_DESCRIPTION     │ 1–2 sentence description of the project          │
+  │ REPLACE_PROJECT_START_DATE      │ YYYY-MM-DD — when the project launched           │
+  │ REPLACE_ARTIST_PHOTO_URL        │ Full CDN URL of press/artist photo               │
+  └─────────────────────────────────┴──────────────────────────────────────────────────┘
+-->
+
+
+<!-- ============================================================
+     TEMPLATE A — HOMEPAGE  (/  )
+     Schema types: MusicGroup + Person
+     Paste as the LAST Custom HTML block before </body> — or use
+     the site-wide footer template part if you want it on every page.
+     ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MusicGroup",
+      "@id":   "https://blondish.world/#musicgroup",
+      "name":  "BLOND:ISH",
+      "url":   "https://blondish.world/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://blondish.world/wp-content/uploads/blondish-logo.png"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "REPLACE_ARTIST_PHOTO_URL"
+      },
+      "description": "Electronic music duo BLOND:ISH — DJs, producers, and founders of Abracadabra and the Bye Bye Plastic environmental movement.",
+      "genre": ["Electronic", "House", "Techno", "Organic House"],
+      "sameAs": [
+        "https://www.instagram.com/blondish/",
+        "https://open.spotify.com/artist/REPLACE_SPOTIFY_ARTIST_ID",
+        "https://www.youtube.com/@blondish",
+        "https://soundcloud.com/blondish",
+        "https://www.facebook.com/blondish",
+        "https://www.residentadvisor.net/dj/blondish"
+      ]
+    },
+    {
+      "@type":    "Person",
+      "@id":      "https://blondish.world/#person",
+      "name":     "BLOND:ISH",
+      "url":      "https://blondish.world/about/",
+      "jobTitle": ["DJ", "Music Producer", "Activist"],
+      "image":    "REPLACE_ARTIST_PHOTO_URL",
+      "memberOf": { "@id": "https://blondish.world/#musicgroup" },
+      "sameAs": [
+        "https://www.instagram.com/blondish/",
+        "https://open.spotify.com/artist/REPLACE_SPOTIFY_ARTIST_ID"
+      ]
+    },
+    {
+      "@type":         "WebSite",
+      "@id":           "https://blondish.world/#website",
+      "url":           "https://blondish.world/",
+      "name":          "BLOND:ISH",
+      "description":   "Official website of electronic music duo BLOND:ISH",
+      "publisher":     { "@id": "https://blondish.world/#musicgroup" },
+      "inLanguage":    "en-GB"
+    }
+  ]
+}
+</script>
+
+
+<!-- ============================================================
+     TEMPLATE B — ABOUT PAGE  (/about/)
+     Schema type: Person
+     ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type":    "Person",
+  "@id":      "https://blondish.world/#person",
+  "name":     "BLOND:ISH",
+  "url":      "https://blondish.world/about/",
+  "jobTitle": ["DJ", "Music Producer", "Activist"],
+  "image":    "REPLACE_ARTIST_PHOTO_URL",
+  "description": "BLOND:ISH is an electronic music duo and DJ/producer project known for their organic house sound and environmental activism through the Bye Bye Plastic movement.",
+  "memberOf": {
+    "@type": "MusicGroup",
+    "@id":   "https://blondish.world/#musicgroup",
+    "name":  "BLOND:ISH"
+  },
+  "sameAs": [
+    "https://www.instagram.com/blondish/",
+    "https://open.spotify.com/artist/REPLACE_SPOTIFY_ARTIST_ID",
+    "https://soundcloud.com/blondish",
+    "https://www.facebook.com/blondish"
+  ]
+}
+</script>
+
+
+<!-- ============================================================
+     TEMPLATE C — TOUR PAGE  (/tour/)
+     Schema type: MusicEvent
+     ⚠️  This is a TEMPLATE — duplicate it for each event.
+     If you have many events, consider a plugin (e.g. The Events Calendar
+     with Yoast SEO integration) to auto-generate these.
+     ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context":  "https://schema.org",
+  "@type":     "MusicEvent",
+  "name":      "BLOND:ISH — REPLACE_CITY_VENUE",
+  "startDate": "REPLACE_DATE_ISO",
+  "endDate":   "REPLACE_DATE_ISO",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+    "@type": "Place",
+    "name":  "REPLACE_VENUE_NAME",
+    "address": {
+      "@type":           "PostalAddress",
+      "streetAddress":   "REPLACE_STREET",
+      "addressLocality": "REPLACE_CITY",
+      "addressCountry":  "REPLACE_COUNTRY_CODE"
+    }
+  },
+  "performer": {
+    "@type": "MusicGroup",
+    "@id":   "https://blondish.world/#musicgroup",
+    "name":  "BLOND:ISH"
+  },
+  "organizer": {
+    "@type": "MusicGroup",
+    "@id":   "https://blondish.world/#musicgroup"
+  },
+  "url": "https://blondish.world/tour/",
+  "offers": {
+    "@type":        "Offer",
+    "url":          "REPLACE_TICKET_URL",
+    "availability": "https://schema.org/InStock",
+    "validFrom":    "REPLACE_SALE_START_DATE_ISO",
+    "priceCurrency":"GBP",
+    "price":        "0"
+  }
+}
+</script>
+
+
+<!-- ============================================================
+     TEMPLATE D — PROJECT PAGES  (/projects/abracadabra/  etc.)
+     Schema type: Event (general — covers residencies, brand events,
+     festivals, DJ nights that are not strictly MusicEvents)
+     Duplicate and edit for each project page.
+     ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context":  "https://schema.org",
+  "@type":     "Event",
+  "@id":       "REPLACE_PROJECT_PAGE_URL#event",
+  "name":      "REPLACE_PROJECT_NAME",
+  "url":       "REPLACE_PROJECT_PAGE_URL",
+  "startDate": "REPLACE_PROJECT_START_DATE",
+  "description": "REPLACE_PROJECT_DESCRIPTION",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+  "organizer": {
+    "@type": "MusicGroup",
+    "@id":   "https://blondish.world/#musicgroup",
+    "name":  "BLOND:ISH",
+    "url":   "https://blondish.world/"
+  },
+  "performer": {
+    "@type": "MusicGroup",
+    "@id":   "https://blondish.world/#musicgroup"
+  },
+  "image": "REPLACE_ARTIST_PHOTO_URL"
+}
+</script>
+
+
+<!-- ============================================================
+     TEMPLATE E — JOURNAL ARCHIVE  (/journal/)
+     Schema type: Blog
+     Paste once on the Journal page template.
+     ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context":  "https://schema.org",
+  "@type":     "Blog",
+  "@id":       "https://blondish.world/journal/#blog",
+  "name":      "BLOND:ISH Journal",
+  "url":       "https://blondish.world/journal/",
+  "description": "News, reflections, and stories from BLOND:ISH — music, sustainability, and the journey behind the project.",
+  "inLanguage": "en-GB",
+  "publisher": {
+    "@type": "MusicGroup",
+    "@id":   "https://blondish.world/#musicgroup",
+    "name":  "BLOND:ISH"
+  }
+}
+</script>
+
+
+<!-- ============================================================
+     TEMPLATE F — INDIVIDUAL JOURNAL POSTS  (/journal/post-slug/)
+     Schema type: Article
+     TWO OPTIONS — choose one:
+
+     OPTION 1 (Recommended): Let Yoast SEO generate Article schema
+     automatically for all posts. Go to:
+       Yoast SEO → Search Appearance → Content Types → Posts
+       → "Show structured data graph" → ON
+     Yoast will auto-generate Article schema with correct author,
+     datePublished, dateModified, and headline — no custom HTML needed.
+
+     OPTION 2: Use the template below as a Custom HTML block on
+     each post if you need custom field control. Replace all tokens
+     for each individual post.
+     ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context":       "https://schema.org",
+  "@type":          "Article",
+  "@id":            "REPLACE_POST_URL#article",
+  "headline":       "REPLACE_POST_TITLE",
+  "description":    "REPLACE_POST_EXCERPT",
+  "url":            "REPLACE_POST_URL",
+  "datePublished":  "REPLACE_POST_PUBLISH_DATE_ISO",
+  "dateModified":   "REPLACE_POST_MODIFIED_DATE_ISO",
+  "inLanguage":     "en-GB",
+  "image": {
+    "@type": "ImageObject",
+    "url":   "REPLACE_POST_FEATURED_IMAGE_URL"
+  },
+  "author": {
+    "@type": "MusicGroup",
+    "@id":   "https://blondish.world/#musicgroup",
+    "name":  "BLOND:ISH"
+  },
+  "publisher": {
+    "@type": "MusicGroup",
+    "@id":   "https://blondish.world/#musicgroup",
+    "name":  "BLOND:ISH",
+    "logo": {
+      "@type": "ImageObject",
+      "url":   "https://blondish.world/wp-content/uploads/blondish-logo.png"
+    }
+  },
+  "isPartOf": {
+    "@type": "Blog",
+    "@id":   "https://blondish.world/journal/#blog"
+  }
+}
+</script>

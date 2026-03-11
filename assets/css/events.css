@@ -1,0 +1,466 @@
+/*
+ * BLOND:ISH — Events Styles
+ * assets/css/events.css
+ *
+ * Sections:
+ *  1. Hero — Split layout (featured event + scrollable list)
+ *  2. Hero — Event list items
+ *  3. Hero — Empty / fallback state
+ *  4. Single event page — Meta block
+ *  5. Responsive — Mobile stacking
+ */
+
+/* ==========================================================================
+   1. HERO — SPLIT LAYOUT
+   ========================================================================== */
+
+.events-hero {
+	position: relative;
+	min-height: 95vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: var(--wp--preset--color--black);
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+	padding: var(--wp--preset--spacing--3xl) var(--wp--preset--spacing--md);
+}
+
+.events-hero::before {
+	content: "";
+	position: absolute;
+	inset: 0;
+	background: linear-gradient(
+		to right,
+		rgba(0, 0, 0, 0.85) 0%,
+		rgba(0, 0, 0, 0.7) 45%,
+		rgba(0, 0, 0, 0.85) 100%
+	);
+	z-index: 0;
+}
+
+.events-hero__inner {
+	position: relative;
+	z-index: 1;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: var(--wp--preset--spacing--2xl);
+	max-width: 1200px;
+	width: 100%;
+	align-items: start;
+}
+
+.events-hero__inner--centered {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+}
+
+/* --- Featured event (left column) --- */
+
+.events-hero__featured {
+	display: flex;
+	flex-direction: column;
+	gap: var(--wp--preset--spacing--xs);
+	padding-right: var(--wp--preset--spacing--xl);
+	border-right: 1px solid var(--wp--preset--color--dark-grey);
+}
+
+.events-hero__label {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: var(--wp--preset--font-size--xs);
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	color: var(--wp--preset--color--brand-accent);
+	margin-bottom: var(--wp--preset--spacing--xs);
+}
+
+.events-hero__date {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: var(--wp--preset--font-size--lg);
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.06em;
+	color: var(--wp--preset--color--white);
+}
+
+.events-hero__time {
+	font-family: var(--wp--preset--font-family--body);
+	font-size: var(--wp--preset--font-size--sm);
+	color: var(--wp--preset--color--light-grey);
+}
+
+.events-hero__venue {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: var(--wp--preset--font-size--2xl);
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.06em;
+	margin: var(--wp--preset--spacing--sm) 0 0;
+	line-height: 1.1;
+}
+
+.events-hero__venue a {
+	color: var(--wp--preset--color--white);
+	text-decoration: none;
+	transition: color 0.2s ease;
+}
+
+.events-hero__venue a:hover {
+	color: var(--wp--preset--color--brand-accent);
+}
+
+.events-hero__city {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: var(--wp--preset--font-size--md);
+	color: var(--wp--preset--color--light-grey);
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	margin: 0;
+}
+
+.events-hero__cta {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: var(--wp--preset--spacing--md);
+	padding: 0.75rem 2rem;
+	min-height: 44px;
+	background-color: var(--wp--preset--color--brand-primary);
+	color: var(--wp--preset--color--black);
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: var(--wp--preset--font-size--sm);
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	text-decoration: none;
+	border: none;
+	transition: background-color 0.2s ease;
+	align-self: flex-start;
+}
+
+.events-hero__cta:hover {
+	background-color: var(--wp--preset--color--brand-accent);
+}
+
+/* --- Event list (right column) --- */
+
+.events-hero__list-wrapper {
+	display: flex;
+	flex-direction: column;
+}
+
+.events-hero__list-heading {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: var(--wp--preset--font-size--sm);
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.12em;
+	color: var(--wp--preset--color--light-grey);
+	margin: 0 0 var(--wp--preset--spacing--md);
+	padding-bottom: var(--wp--preset--spacing--xs);
+	border-bottom: 1px solid var(--wp--preset--color--dark-grey);
+}
+
+
+/* ==========================================================================
+   2. HERO — EVENT LIST ITEMS
+   ========================================================================== */
+
+.events-hero__list {
+	max-height: 60vh;
+	overflow-y: auto;
+	scrollbar-width: thin;
+	scrollbar-color: var(--wp--preset--color--dark-grey) transparent;
+	position: relative;
+}
+
+/* Custom scrollbar (WebKit) */
+.events-hero__list::-webkit-scrollbar {
+	width: 4px;
+}
+
+.events-hero__list::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+.events-hero__list::-webkit-scrollbar-thumb {
+	background: var(--wp--preset--color--dark-grey);
+	border-radius: 2px;
+}
+
+.events-hero__list-item {
+	display: grid;
+	grid-template-columns: 56px 1fr auto;
+	gap: var(--wp--preset--spacing--sm);
+	align-items: center;
+	padding: var(--wp--preset--spacing--sm) 0;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+	transition: background-color 0.15s ease;
+}
+
+.events-hero__list-item:hover {
+	background-color: rgba(255, 255, 255, 0.03);
+}
+
+.events-hero__list-item:last-child {
+	border-bottom: none;
+}
+
+/* Date badge */
+.events-hero__list-date {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	line-height: 1;
+}
+
+.events-hero__list-month {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: 0.65rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	color: var(--wp--preset--color--brand-accent);
+}
+
+.events-hero__list-day {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: var(--wp--preset--font-size--lg);
+	font-weight: 700;
+	color: var(--wp--preset--color--white);
+}
+
+/* Event info */
+.events-hero__list-info {
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+	min-width: 0;
+}
+
+.events-hero__list-venue {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: var(--wp--preset--font-size--sm);
+	font-weight: 700;
+	color: var(--wp--preset--color--white);
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 0.04em;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	transition: color 0.2s ease;
+}
+
+.events-hero__list-venue:hover {
+	color: var(--wp--preset--color--brand-accent);
+}
+
+.events-hero__list-city {
+	font-family: var(--wp--preset--font-family--body);
+	font-size: var(--wp--preset--font-size--xs);
+	color: var(--wp--preset--color--light-grey);
+}
+
+/* Ticket button (compact) */
+.events-hero__list-tickets {
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: 0.65rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	color: var(--wp--preset--color--brand-primary);
+	text-decoration: none;
+	padding: 0.4rem 0.8rem;
+	border: 1px solid var(--wp--preset--color--brand-primary);
+	transition: background-color 0.2s ease, color 0.2s ease;
+	white-space: nowrap;
+	min-height: 44px;
+	display: inline-flex;
+	align-items: center;
+}
+
+.events-hero__list-tickets:hover {
+	background-color: var(--wp--preset--color--brand-primary);
+	color: var(--wp--preset--color--black);
+}
+
+.events-hero__empty-list {
+	font-family: var(--wp--preset--font-family--body);
+	font-size: var(--wp--preset--font-size--sm);
+	color: var(--wp--preset--color--light-grey);
+}
+
+/* Scroll shadow indicators */
+.events-hero__list.has-scroll-top {
+	mask-image: linear-gradient(to bottom, transparent 0, #000 1.5rem);
+	-webkit-mask-image: linear-gradient(to bottom, transparent 0, #000 1.5rem);
+}
+
+.events-hero__list.has-scroll-bottom {
+	mask-image: linear-gradient(to top, transparent 0, #000 1.5rem);
+	-webkit-mask-image: linear-gradient(to top, transparent 0, #000 1.5rem);
+}
+
+.events-hero__list.has-scroll-top.has-scroll-bottom {
+	mask-image: linear-gradient(to bottom, transparent 0, #000 1.5rem, #000 calc(100% - 1.5rem), transparent 100%);
+	-webkit-mask-image: linear-gradient(to bottom, transparent 0, #000 1.5rem, #000 calc(100% - 1.5rem), transparent 100%);
+}
+
+
+/* ==========================================================================
+   3. HERO — EMPTY / FALLBACK STATE
+   ========================================================================== */
+
+.events-hero--empty {
+	min-height: 60vh;
+}
+
+.events-hero--empty .events-hero__venue {
+	font-size: var(--wp--preset--font-size--xl);
+	margin-top: var(--wp--preset--spacing--md);
+}
+
+.events-hero--empty .events-hero__city {
+	margin-top: var(--wp--preset--spacing--xs);
+}
+
+.events-hero--empty .events-hero__cta {
+	align-self: center;
+	margin-top: var(--wp--preset--spacing--lg);
+}
+
+
+/* ==========================================================================
+   4. SINGLE EVENT PAGE — META BLOCK
+   ========================================================================== */
+
+.event-meta {
+	display: flex;
+	flex-direction: column;
+	gap: var(--wp--preset--spacing--sm);
+	padding: var(--wp--preset--spacing--md) 0;
+	border-top: 1px solid var(--wp--preset--color--dark-grey);
+	border-bottom: 1px solid var(--wp--preset--color--dark-grey);
+}
+
+.event-meta__row {
+	display: flex;
+	align-items: flex-start;
+	gap: var(--wp--preset--spacing--sm);
+}
+
+.event-meta__icon {
+	flex-shrink: 0;
+	font-size: 1.2rem;
+	line-height: 1.5;
+}
+
+.event-meta__detail {
+	font-family: var(--wp--preset--font-family--body);
+	font-size: var(--wp--preset--font-size--md);
+	color: var(--wp--preset--color--white);
+	line-height: 1.5;
+}
+
+.event-meta__detail time {
+	font-weight: 600;
+}
+
+.event-meta__end-date {
+	color: var(--wp--preset--color--light-grey);
+}
+
+.event-meta__past-notice {
+	margin-top: var(--wp--preset--spacing--sm);
+	padding: var(--wp--preset--spacing--sm) var(--wp--preset--spacing--md);
+	background: rgba(255, 255, 255, 0.05);
+	border-left: 3px solid var(--wp--preset--color--light-grey);
+	font-family: var(--wp--preset--font-family--heading);
+	font-size: var(--wp--preset--font-size--sm);
+	color: var(--wp--preset--color--light-grey);
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+}
+
+.event-meta__cta {
+	margin-top: var(--wp--preset--spacing--md);
+}
+
+.event-meta__cta .wp-block-button__link {
+	background-color: var(--wp--preset--color--brand-primary);
+	color: var(--wp--preset--color--black);
+	font-family: var(--wp--preset--font-family--heading);
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	padding: 0.75rem 2.5rem;
+	text-decoration: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 44px;
+	transition: background-color 0.2s ease;
+}
+
+.event-meta__cta .wp-block-button__link:hover {
+	background-color: var(--wp--preset--color--brand-accent);
+}
+
+
+/* ==========================================================================
+   5. RESPONSIVE — MOBILE STACKING
+   ========================================================================== */
+
+@media (max-width: 768px) {
+	.events-hero {
+		min-height: auto;
+		padding: var(--wp--preset--spacing--2xl) var(--wp--preset--spacing--md);
+	}
+
+	.events-hero__inner {
+		grid-template-columns: 1fr;
+		gap: var(--wp--preset--spacing--xl);
+	}
+
+	.events-hero__featured {
+		padding-right: 0;
+		border-right: none;
+		padding-bottom: var(--wp--preset--spacing--lg);
+		border-bottom: 1px solid var(--wp--preset--color--dark-grey);
+	}
+
+	.events-hero__cta {
+		align-self: stretch;
+		text-align: center;
+	}
+
+	.events-hero__list {
+		max-height: 50vh;
+	}
+
+	.events-hero__list-item {
+		grid-template-columns: 48px 1fr auto;
+	}
+
+	.events-hero__list-tickets {
+		font-size: 0.6rem;
+		padding: 0.35rem 0.6rem;
+	}
+}
+
+@media (max-width: 480px) {
+	.events-hero__list-item {
+		grid-template-columns: 48px 1fr;
+	}
+
+	.events-hero__list-tickets {
+		grid-column: 1 / -1;
+		justify-self: start;
+		margin-left: calc(48px + var(--wp--preset--spacing--sm));
+	}
+}

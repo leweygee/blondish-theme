@@ -1,0 +1,45 @@
+<!-- wp:template-part {"slug":"header","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","layout":{"type":"constrained","contentSize":"720px"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|2xl","bottom":"var:preset|spacing|2xl","left":"var:preset|spacing|md","right":"var:preset|spacing|md"}}}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--2xl);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--2xl);padding-left:var(--wp--preset--spacing--md)">
+
+	<!-- Back link -->
+	<!-- wp:paragraph {"fontSize":"sm","fontFamily":"heading","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|lg"}},"typography":{"textTransform":"uppercase","letterSpacing":"0.08em"}}} -->
+	<p class="has-sm-font-size has-heading-font-family" style="margin-bottom:var(--wp--preset--spacing--lg);text-transform:uppercase;letter-spacing:0.08em"><a href="/tour/">← Back to Tour</a></p>
+	<!-- /wp:paragraph -->
+
+	<!-- Event title -->
+	<!-- wp:post-title {"level":1,"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.06em"},"spacing":{"margin":{"bottom":"var:preset|spacing|sm"}}},"fontSize":"2xl","fontFamily":"heading"} /-->
+
+	<!-- Event meta (date, venue, city — rendered via PHP pattern) -->
+	<!-- wp:pattern {"slug":"blondish/single-event-meta"} /-->
+
+	<!-- Featured image -->
+	<!-- wp:post-featured-image {"style":{"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}},"border":{"radius":"0px"}}} /-->
+
+	<!-- Post content (optional description/notes) -->
+	<!-- wp:post-content {"layout":{"type":"constrained","contentSize":"720px"}} /-->
+
+	<!-- Spacer -->
+	<!-- wp:spacer {"height":"var:preset|spacing|xl"} -->
+	<div style="height:var(--wp--preset--spacing--xl)" aria-hidden="true" class="wp-block-spacer"></div>
+	<!-- /wp:spacer -->
+
+	<!-- Separator -->
+	<!-- wp:separator {"backgroundColor":"dark-grey"} -->
+	<hr class="wp-block-separator has-text-color has-dark-grey-color has-alpha-channel-opacity has-dark-grey-background-color has-background"/>
+	<!-- /wp:separator -->
+
+	<!-- wp:spacer {"height":"var:preset|spacing|md"} -->
+	<div style="height:var(--wp--preset--spacing--md)" aria-hidden="true" class="wp-block-spacer"></div>
+	<!-- /wp:spacer -->
+
+	<!-- Back to tour link -->
+	<!-- wp:paragraph {"fontSize":"sm","fontFamily":"heading","style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.08em"}}} -->
+	<p class="has-sm-font-size has-heading-font-family" style="text-transform:uppercase;letter-spacing:0.08em"><a href="/tour/">← All Tour Dates</a></p>
+	<!-- /wp:paragraph -->
+
+</main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->

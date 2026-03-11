@@ -1,0 +1,259 @@
+/*
+Theme Name:   BLOND:ISH
+Theme URI:    https://blondish.world
+Author:       BLOND:ISH
+Author URI:   https://blondish.world
+Description:  WordPress Full Site Editing (FSE) block theme for blondish.world
+Version:      1.0.0
+Requires at least: 6.4
+Requires PHP: 8.0
+License:      Private
+Text Domain:  blondish
+*/
+
+/*
+ * NOTE: Most visual styling lives in theme.json.
+ * This file is for:
+ *   1. The required theme header comment above (WordPress reads it)
+ *   2. Styles that theme.json cannot express (pseudo-elements, animations,
+ *      third-party embed overrides, skip-to-content, focus styles)
+ */
+
+/* ==========================================================================
+   BASE RESETS
+   ========================================================================== */
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+img,
+video {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+/* ==========================================================================
+   ACCESSIBILITY — SKIP TO CONTENT
+   Hidden by default; appears on keyboard focus.
+   ========================================================================== */
+
+.skip-to-content {
+	position: absolute;
+	top: -100%;
+	left: 1rem;
+	z-index: 9999;
+	padding: 0.5rem 1rem;
+	background: var(--wp--preset--color--white);
+	color: var(--wp--preset--color--black);
+	font-family: var(--wp--preset--font-family--heading);
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	text-decoration: none;
+	transition: top 0.15s ease;
+}
+
+.skip-to-content:focus {
+	top: 1rem;
+	outline: 3px solid var(--wp--preset--color--brand-accent);
+	outline-offset: 2px;
+}
+
+/* ==========================================================================
+   FOCUS STYLES — WCAG 2.1 AA compliant keyboard navigation
+   ========================================================================== */
+
+:focus-visible {
+	outline: 3px solid var(--wp--preset--color--brand-accent);
+	outline-offset: 3px;
+	border-radius: 2px;
+}
+
+/* Remove focus ring for mouse users */
+:focus:not(:focus-visible) {
+	outline: none;
+}
+
+/* ==========================================================================
+   FULL-WIDTH SECTIONS — ensure Cover + Group blocks can bleed to viewport edge
+   ========================================================================== */
+
+.wp-block-cover.alignfull,
+.wp-block-group.alignfull {
+	max-width: 100% !important;
+	width: 100vw !important;
+	margin-left: calc(50% - 50vw) !important;
+	margin-right: calc(50% - 50vw) !important;
+}
+
+/* ==========================================================================
+   COVER BLOCK — text contrast & layout tweaks
+   ========================================================================== */
+
+.wp-block-cover {
+	min-height: 85vh;
+}
+
+.wp-block-cover.is-homepage-hero {
+	min-height: 95vh;
+}
+
+.wp-block-cover__inner-container {
+	width: 100%;
+	max-width: var(--wp--style--global--wide-size, 1200px);
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+
+/* ==========================================================================
+   NAVIGATION — override any unwanted WP defaults
+   ========================================================================== */
+
+.wp-block-navigation__responsive-container.is-menu-open {
+	background-color: var(--wp--preset--color--black);
+}
+
+/* Hamburger icon — ensure it's visible on dark background */
+.wp-block-navigation__responsive-container-open svg,
+.wp-block-navigation__responsive-container-close svg {
+	fill: var(--wp--preset--color--white);
+}
+
+/* ==========================================================================
+   BUTTONS — minimum 44×44px touch targets (WCAG 2.5.5)
+   ========================================================================== */
+
+.wp-block-button__link,
+.wp-block-navigation__responsive-container-open,
+.wp-block-navigation__responsive-container-close {
+	min-height: 44px;
+	min-width:  44px;
+}
+
+/* ==========================================================================
+   IMAGES — lazy loading fade-in (progressive enhancement)
+   ========================================================================== */
+
+img[loading="lazy"] {
+	opacity: 0;
+	transition: opacity 0.4s ease;
+}
+
+img[loading="lazy"].loaded,
+img.wp-post-image {
+	opacity: 1;
+}
+
+/* Trigger via small inline script — add to footer template part:
+   <script>
+   document.querySelectorAll('img[loading="lazy"]').forEach(function(img){
+     if(img.complete){ img.classList.add('loaded'); }
+     else { img.addEventListener('load', function(){ img.classList.add('loaded'); }); }
+   });
+   </script>
+*/
+
+/* ==========================================================================
+   LITE-YOUTUBE-EMBED — sizing overrides
+   ========================================================================== */
+
+lite-youtube {
+	max-width: 100%;
+	border-radius: 0; /* Keep sharp corners to match brand aesthetic */
+}
+
+/* ==========================================================================
+   SEATED EMBED — placeholder styling while script loads
+   ========================================================================== */
+
+#seated-placeholder:empty::after {
+	content: 'Loading tour dates\2026'; /* ellipsis */
+	display: block;
+	text-align: center;
+	padding: 2rem;
+	color: var(--wp--preset--color--light-grey);
+	font-family: var(--wp--preset--font-family--heading);
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+/* ==========================================================================
+   SHOPIFY PLACEHOLDER — same treatment
+   ========================================================================== */
+
+#shopify-placeholder:empty::after {
+	content: 'Loading store\2026';
+	display: block;
+	text-align: center;
+	padding: 2rem;
+	color: var(--wp--preset--color--light-grey);
+	font-family: var(--wp--preset--font-family--heading);
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+/* ==========================================================================
+   QUERY LOOP — Journal grid card hover
+   ========================================================================== */
+
+.wp-block-post:hover .wp-block-post-featured-image img {
+	transform: scale(1.03);
+	transition: transform 0.4s ease;
+}
+
+.wp-block-post-featured-image {
+	overflow: hidden;
+}
+
+.wp-block-post-featured-image img {
+	transition: transform 0.4s ease;
+}
+
+/* ==========================================================================
+   EVENT LINKS — hover accent transitions (cards + hero)
+   ========================================================================== */
+
+.events-hero__list-item {
+	transition: background-color 0.15s ease;
+}
+
+.events-hero__list-venue,
+.events-hero__venue a {
+	transition: color 0.2s ease;
+}
+
+
+/* ==========================================================================
+   PRINT STYLES — basic clean print view
+   ========================================================================== */
+
+@media print {
+	.wp-block-navigation,
+	.wp-block-cover__overlay,
+	#seated-placeholder,
+	#shopify-placeholder,
+	.events-hero,
+	lite-youtube {
+		display: none !important;
+	}
+
+	body {
+		background: #fff !important;
+		color: #000 !important;
+	}
+}

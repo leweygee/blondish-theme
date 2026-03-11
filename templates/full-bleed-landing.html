@@ -1,0 +1,25 @@
+<!-- wp:template-part {"slug":"header","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","layout":{"type":"default"}} -->
+<main class="wp-block-group">
+
+	<!-- Hero cover — full-viewport, no constrained wrapper -->
+	<!-- wp:cover {"url":"REPLACE_LANDING_HERO_IMAGE_URL","dimRatio":50,"minHeight":85,"minHeightUnit":"vh","isDark":true,"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|3xl","bottom":"var:preset|spacing|3xl","left":"var:preset|spacing|md","right":"var:preset|spacing|md"}}},"layout":{"type":"constrained","contentSize":"900px"}} -->
+	<div class="wp-block-cover alignfull is-dark" style="min-height:85vh;padding-top:var(--wp--preset--spacing--3xl);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--3xl);padding-left:var(--wp--preset--spacing--md)">
+		<span aria-hidden="true" class="wp-block-cover__background has-background-dim-50 has-background-dim"></span>
+		<img class="wp-block-cover__image-background" alt="" src="REPLACE_LANDING_HERO_IMAGE_URL" data-object-fit="cover"/>
+		<div class="wp-block-cover__inner-container">
+
+			<!-- wp:post-title {"level":1,"textAlign":"center","style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.1em"}},"fontSize":"display","fontFamily":"heading"} /-->
+
+		</div>
+	</div>
+	<!-- /wp:cover -->
+
+	<!-- Page content — full width, blocks control their own width -->
+	<!-- wp:post-content {"align":"full","layout":{"type":"default"}} /-->
+
+</main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->

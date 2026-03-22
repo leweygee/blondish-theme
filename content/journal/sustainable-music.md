@@ -154,6 +154,8 @@ Sustainability in the music industry is not one problem — it is dozens of inte
 - Use waterless urinals where possible.
 - Capture and reuse greywater for non-potable applications.
 
+**Leading by example:** [Pacha Ibiza](https://www.pacha.com/) — open since 1973 and one of the world's most iconic clubs — has demonstrated that sustainability and legacy nightlife are not in conflict. Their 2022 renovation included energy-efficient LED lighting, upgraded HVAC systems, and a complete elimination of single-use plastics in favour of reusable cup systems. Pacha's partnership with [Bye Bye Plastic](/projects/bye-bye-plastic/) has made it one of the most visible examples of a major venue committing to green operations without compromising the experience. When the oldest superclub in [Ibiza](/zine/ibiza/best-clubs-ibiza-2026/) goes sustainable, it sends a signal to every venue that still thinks it's too difficult.
+
 ### For Festivals
 
 **Transportation (the biggest lever):**

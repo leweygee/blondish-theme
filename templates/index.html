@@ -4,8 +4,46 @@
 <main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--2xl);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--2xl);padding-left:var(--wp--preset--spacing--md)">
 
 	<!-- wp:heading {"level":1,"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.08em"}},"fontSize":"2xl","fontFamily":"heading"} -->
-	<h1 class="wp-block-heading has-2xl-font-size has-heading-font-family">Journal</h1>
+	<h1 class="wp-block-heading has-2xl-font-size has-heading-font-family">NRG Zine</h1>
 	<!-- /wp:heading -->
+
+	<!-- wp:paragraph {"textColor":"light-grey","fontSize":"md","fontFamily":"body"} -->
+	<p class="has-light-grey-color has-text-color has-md-font-size has-body-font-family">A living archive of energy, culture, and global nightlife intelligence. By the community, for the community.</p>
+	<!-- /wp:paragraph -->
+
+	<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|lg"},"blockGap":"var:preset|spacing|sm"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"left"}} -->
+	<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--md);margin-bottom:var(--wp--preset--spacing--lg)">
+
+		<!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.1em"}},"fontSize":"xs","fontFamily":"heading"} -->
+		<p class="has-xs-font-size has-heading-font-family"><a href="/zine/music/">Music</a></p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.1em"},"color":{"text":"#666666"}},"fontSize":"xs","fontFamily":"heading"} -->
+		<p class="has-text-color has-xs-font-size has-heading-font-family" style="color:#666666">/</p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.1em"}},"fontSize":"xs","fontFamily":"heading"} -->
+		<p class="has-xs-font-size has-heading-font-family"><a href="/zine/ibiza/">Ibiza</a></p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.1em"},"color":{"text":"#666666"}},"fontSize":"xs","fontFamily":"heading"} -->
+		<p class="has-text-color has-xs-font-size has-heading-font-family" style="color:#666666">/</p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.1em"}},"fontSize":"xs","fontFamily":"heading"} -->
+		<p class="has-xs-font-size has-heading-font-family"><a href="/zine/culture/">Culture</a></p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.1em"},"color":{"text":"#666666"}},"fontSize":"xs","fontFamily":"heading"} -->
+		<p class="has-text-color has-xs-font-size has-heading-font-family" style="color:#666666">/</p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.1em"}},"fontSize":"xs","fontFamily":"heading"} -->
+		<p class="has-xs-font-size has-heading-font-family"><a href="/zine/energy/">Energy</a></p>
+		<!-- /wp:paragraph -->
+
+	</div>
+	<!-- /wp:group -->
 
 	<!-- wp:query {"queryId":1,"query":{"perPage":9,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","inherit":true},"layout":{"type":"default"}} -->
 	<div class="wp-block-query">
@@ -46,6 +84,32 @@
 
 	</div>
 	<!-- /wp:query -->
+
+	<!-- wp:spacer {"height":"var:preset|spacing|2xl"} -->
+	<div style="height:var(--wp--preset--spacing--2xl)" aria-hidden="true" class="wp-block-spacer"></div>
+	<!-- /wp:spacer -->
+
+	<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}},"border":{"top":{"color":"var:preset|color|dark-grey","width":"1px"}}},"layout":{"type":"constrained","contentSize":"720px"}} -->
+	<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--dark-grey);border-top-width:1px;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)">
+
+		<!-- wp:heading {"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.08em"}},"fontSize":"lg","fontFamily":"heading"} -->
+		<h2 class="wp-block-heading has-lg-font-size has-heading-font-family">Write for NRG Zine</h2>
+		<!-- /wp:heading -->
+
+		<!-- wp:paragraph {"textColor":"light-grey","fontSize":"base","fontFamily":"body"} -->
+		<p class="has-light-grey-color has-text-color has-base-font-size has-body-font-family">NRG Zine is community-written. The best stories come from the people who were there — on the dancefloor, behind the decks, in the studio, at the afterparty. Dancefloor diaries, scene reports, mixes, photo stories, opinions. Named or anonymous. If you have something worth reading, we want to publish it.</p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|md"}}}} -->
+		<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--md)">
+			<!-- wp:button {"className":"is-style-outline","style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.08em"}},"fontSize":"sm","fontFamily":"heading"} -->
+			<div class="wp-block-button is-style-outline has-custom-font-size has-sm-font-size has-heading-font-family"><a class="wp-block-button__link wp-element-button" href="/zine/submit/">Submit Your Story</a></div>
+			<!-- /wp:button -->
+		</div>
+		<!-- /wp:buttons -->
+
+	</div>
+	<!-- /wp:group -->
 
 </main>
 <!-- /wp:group -->

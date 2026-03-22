@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Journal Grid
+ * Title: NRG Zine Grid
  * Slug: blondish/journal-grid
  * Categories: blondish-sections
  * Description: 3-column grid of latest posts with featured image, date, title and excerpt.
@@ -11,7 +11,7 @@
 <div class="wp-block-group alignfull" style="border-top-color:var(--wp--preset--color--dark-grey);border-top-width:1px;padding-top:var(--wp--preset--spacing--2xl);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--2xl);padding-left:var(--wp--preset--spacing--md)">
 
 	<!-- wp:heading {"style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.08em"}},"fontSize":"xl","fontFamily":"heading"} -->
-	<h2 class="wp-block-heading has-xl-font-size has-heading-font-family">From the Journal</h2>
+	<h2 class="wp-block-heading has-xl-font-size has-heading-font-family">NRG Zine</h2>
 	<!-- /wp:heading -->
 
 	<!-- wp:query {"queryId":10,"query":{"perPage":3,"pages":1,"offset":0,"postType":"post","order":"desc","orderBy":"date","inherit":false},"layout":{"type":"default"}} -->
@@ -34,7 +34,7 @@
 	<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"margin":{"top":"var:preset|spacing|md"}}}} -->
 	<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--md)">
 		<!-- wp:button {"className":"is-style-outline","style":{"typography":{"textTransform":"uppercase","letterSpacing":"0.08em"}},"fontSize":"sm","fontFamily":"heading"} -->
-		<div class="wp-block-button is-style-outline has-custom-font-size has-sm-font-size has-heading-font-family"><a class="wp-block-button__link wp-element-button" href="/journal/">Read the Journal</a></div>
+		<div class="wp-block-button is-style-outline has-custom-font-size has-sm-font-size has-heading-font-family"><a class="wp-block-button__link wp-element-button" href="/zine/">Read the Zine</a></div>
 		<!-- /wp:button -->
 	</div>
 	<!-- /wp:buttons -->

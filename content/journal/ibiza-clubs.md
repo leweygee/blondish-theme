@@ -36,7 +36,9 @@ These are the venues that put Ibiza on the map. The clubs in Ibiza that every mu
 
 Pacha is the heartbeat of Ibiza. It has been open since 1973, which makes it not just a club but a living monument to dance music culture. The twin cherry logo is as recognizable as any brand in nightlife. Walking through the front door, you immediately feel the history — but Pacha has never coasted on nostalgia. The programming remains sharp, the production keeps evolving, and the Main Room still delivers that electric charge when the lights drop and the first beat hits.
 
-What I love about Pacha is the architecture of the experience. The Main Room is intimate enough to feel the crowd's energy but large enough for the sound to breathe. The Global Room upstairs offers something deeper and more experimental. And the terrace gives you that crucial Ibiza moment: stepping outside, feeling the Mediterranean air, hearing the bass thump through the walls.
+What I love about Pacha is the architecture of the experience. The Main Room is intimate enough to feel the crowd's energy but large enough for the sound to breathe. The multi-room layout means each space has its own character — and moving between them across a night is part of the Pacha experience. The terrace gives you that crucial Ibiza moment: stepping outside, feeling the Mediterranean air, hearing the bass thump through the walls.
+
+Pacha has also become a leader in sustainable nightlife. The 2022 renovation included energy-efficient LED lighting and upgraded HVAC systems, and the club has eliminated single-use plastics in favour of reusable cup systems — part of a broader partnership with eco-initiatives like [Bye Bye Plastic](https://byebyeplastic.com/). It's proof that a fifty-year-old institution can evolve without losing its soul.
 
 I have been to Pacha more times than I can count. The crowd is international, music-literate, and ready. When Pacha is on, it is *on*.
 

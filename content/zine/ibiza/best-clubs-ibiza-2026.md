@@ -14,7 +14,7 @@ schema_type: Article
 
 ## Quick Answer
 
-The **best clubs in Ibiza in 2026** are **[Pacha](https://www.pacha.com/)** (historic, eclectic, the upstairs rooms are where it happens), **DC-10** (raw, no pretence, home of [Circoloco](https://www.circoloco.net/)), **[Hi Ibiza](https://www.hiibiza.com/)** (best sound system on the island, by a distance), **Amnesia** (the terrace at sunrise is still unmatched), and **Cova Santa** (cave venue, the organic house spiritual home).
+The **best clubs in Ibiza in 2026** are **[Pacha](https://www.pacha.com/)** (historic, eclectic, multi-room with a 50-year legacy), **DC-10** (raw, no pretence, home of [Circoloco](https://www.circoloco.net/)), **[Hi Ibiza](https://www.hiibiza.com/)** (best sound system on the island, by a distance), **Amnesia** (the terrace at sunrise is still unmatched), and **Cova Santa** (cave venue, the organic house spiritual home).
 
 - **Best for sound quality:** Hi Ibiza (custom Funktion-One, Theatre room)
 - **Best for underground credibility:** DC-10 (Circoloco Mondays since 1999)
@@ -45,7 +45,9 @@ For official event calendars, [Ibiza Spotlight](https://www.ibiza-spotlight.com/
 
 The 2022 renovation upgraded the Funktion-One system and modernised the ventilation without destroying the multi-room intimacy that makes Pacha Pacha. Solomun's Sunday residency is still the island's most in-demand ticket, but the real story in 2026 is the midweek programming — nights dedicated to organic house, Afro-Latin crossovers, and deeper sounds that Pacha wouldn't have touched a decade ago.
 
-**The insider take:** Skip the main room on peak nights. Go upstairs. Smaller system, lower ceiling, a crowd that came for the music. That's where the real Pacha lives.
+**The insider take:** Pacha's multi-room layout is its secret weapon — each space has its own character and energy, and moving between them across a night is part of the experience. The midweek programming, in particular, has become some of the most musically interesting on the island.
+
+Pacha has also become one of Ibiza's leaders in venue sustainability. The club has eliminated single-use plastics, moved to a reusable cup system, and invested in energy-efficient LED lighting and HVAC throughout the 2022 renovation. It's one of several venues on the island partnering with [Bye Bye Plastic](https://byebyeplastic.com/) and demonstrating that a legendary nightlife experience doesn't have to come at the planet's expense.
 
 Artists like BLOND:ISH and the Abracadabra crew have brought their world-influenced sound to Pacha's main room on multiple occasions — proof that the venue's musical range extends well beyond its glamorous reputation.
 

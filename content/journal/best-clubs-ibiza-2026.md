@@ -44,7 +44,9 @@ BLOND:ISH has been a fixture of Ibiza's music scene for over a decade, playing r
 
 The club's programming has shifted toward more musically credible bookings in recent years. Solomun's residency remains the island's hottest ticket, but the real story is the midweek programming — nights dedicated to [organic house](/journal/organic-house-music-guide/), Afro-Latin sounds, and deeper house that would have been unthinkable in Pacha a decade ago.
 
-**Insider tip:** The upstairs rooms are where the real magic happens. Smaller sound systems, lower ceilings, and a crowd that's there for the music rather than the scene.
+**Insider tip:** Pacha's multi-room layout is its secret weapon — each space has its own energy, and moving between them across a night is part of the experience. The midweek programming has become some of the most musically interesting on the island.
+
+Pacha has also become one of Ibiza's leaders in venue sustainability. The club has eliminated single-use plastics, moved to a reusable cup system, and invested in energy-efficient LED lighting and ventilation as part of the 2022 renovation — partnering with initiatives like [Bye Bye Plastic](/projects/bye-bye-plastic/) to demonstrate that iconic nightlife doesn't have to cost the planet.
 
 **BLOND:ISH connection:** BLOND:ISH has played Pacha numerous times, including Abracadabra showcase events that brought the label's organic-meets-afro sound to the venue's legendary main room. [See upcoming dates](/tour/)
 

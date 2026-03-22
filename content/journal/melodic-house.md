@@ -40,7 +40,7 @@ In parallel, European trance producers were exploring melody with an almost clas
 
 The late 2000s and early 2010s saw a critical shift. As the EDM boom pushed much of mainstream electronic music toward aggressive drops and maximalist production, a counter-movement formed. Producers began looking for a middle path: music that was melodically rich but grounded in the groove and subtlety of house and techno.
 
-Labels like Anjunadeep, Diynamic, and Kompakt became incubators for this sound. Artists such as Stephan Bodzin, whose album *Powers of Ten* became a landmark, demonstrated that electronic music could be deeply melodic without sacrificing depth or danceability. Dixon's marathon sets at Panorama Bar in Berlin showcased a curatorial vision where melody was not decoration but architecture.
+Labels like Anjunadeep, [Diynamic](https://www.diynamic.com/), and Kompakt became incubators for this sound. Artists such as Stephan Bodzin, whose album *Powers of Ten* became a landmark, demonstrated that electronic music could be deeply melodic without sacrificing depth or danceability. Dixon's marathon sets at Panorama Bar in Berlin showcased a curatorial vision where melody was not decoration but architecture.
 
 ### Genre Recognition and Explosion (2016–Present)
 
@@ -48,7 +48,7 @@ By the mid-2010s, the sound had coalesced enough to demand its own name. Beatpor
 
 Several developments accelerated its growth:
 
-- **Afterlife** — The label and event series founded by Tale Of Us became the genre's most visible institution, combining melodic house and techno with a cinematic visual identity that attracted a massive global audience.
+- **[Afterlife](https://afterlifeofc.com/)** — The label and event series founded by Tale Of Us became the genre's most visible institution, combining melodic house and techno with a cinematic visual identity that attracted a massive global audience.
 - **Streaming culture** — Melodic house proved perfectly suited to playlist culture. Its emotional accessibility and longer track lengths made it ideal for deep listening sessions, study playlists, and long-form mixes on YouTube.
 - **The pandemic era** — Livestream DJ sets during 2020–2021 favored music that could hold attention without a physical dance floor. Melodic, journey-oriented sets thrived.
 - **Festival expansion** — Events from Tomorrowland to Burning Man dedicated stages and time slots to the melodic sound, exposing it to audiences who might never enter a Berlin basement.
@@ -143,7 +143,7 @@ Hamburg-based **Diynamic**, founded by Solomun and Adriatique (among others), ha
 
 - **Kompakt** — The Cologne label's long history of melodic, pop-influenced techno and house (especially its annual *Pop Ambient* and *Total* compilations) laid groundwork for today's melodic house.
 - **All Day I Dream** — Lee Burridge's label focuses on daytime, sun-drenched melodic house with organic textures.
-- **Innervisions** — Dixon and Ame's Berlin-based label blends melodic house with deeper, more experimental territory.
+- **[Innervisions](https://www.innervisions.com/)** — Dixon and Ame's Berlin-based label blends melodic house with deeper, more experimental territory.
 - **This Never Happened** — Lane 8's own imprint, focused on warm, introspective melodic house.
 
 ## Melodic House vs. Related Genres
@@ -237,7 +237,7 @@ Melodic house is excellent for DJing, particularly for extended sets and warm-up
 
 ### Where can I discover new melodic house music?
 
-Key sources for discovering melodic house include: **Beatport's Melodic House & Techno chart**, **Spotify playlists** (search "melodic house"), **YouTube channels** like Cercle and Anjunadeep, and label catalogs from **Anjunadeep**, **Afterlife**, [**Abracadabra Records**](/projects/abracadabra/), **All Day I Dream**, and **This Never Happened**. Following artists and labels on SoundCloud and Bandcamp also surfaces deeper cuts.
+Key sources for discovering melodic house include: **Beatport's Melodic House & Techno chart**, **Spotify playlists** (search "melodic house"), **[Resident Advisor](https://ra.co/)** reviews and mixes, **YouTube channels** like Cercle and Anjunadeep, and label catalogs from **Anjunadeep**, **Afterlife**, [**Abracadabra Records**](/projects/abracadabra/), **All Day I Dream**, and **This Never Happened**. Following artists and labels on SoundCloud and Bandcamp also surfaces deeper cuts.
 
 ## Start Listening
 

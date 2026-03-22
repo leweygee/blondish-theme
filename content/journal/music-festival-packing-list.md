@@ -81,7 +81,7 @@ The golden rule: **layers**. Festivals swing between extremes — blazing sun to
 | Item | Why |
 |------|-----|
 | **Sunscreen (SPF 50)** | Mineral/reef-safe formula preferred |
-| **Concert earplugs** | Filtered earplugs (Etymotic, Loop, EarPeace) — protect hearing while preserving sound quality. This is non-negotiable. |
+| **Concert earplugs** | Filtered earplugs ([Etymotic](https://www.etymotic.com/), [Loop](https://www.loopearplugs.com/), EarPeace) — protect hearing while preserving sound quality. This is non-negotiable. |
 | **Basic first aid** | Plasters, antiseptic, blister pads, painkillers, antihistamines |
 | **Prescription medications** | Enough for the full trip plus extras |
 | **Hand sanitizer** | Portable, non-aerosol |

@@ -58,7 +58,7 @@ Sound healing practitioners aim to guide participants from beta (active mind) to
 
 A growing body of peer-reviewed research supports the therapeutic effects of sound:
 
-- A 2017 study in the *Journal of Evidence-Based Integrative Medicine* found that sound meditation with singing bowls significantly reduced tension, anger, fatigue, and depression, with participants reporting increased spiritual well-being.
+- A [2017 study in the *Journal of Evidence-Based Integrative Medicine*](https://journals.sagepub.com/doi/10.1177/2156587217731718) found that sound meditation with singing bowls significantly reduced tension, anger, fatigue, and depression, with participants reporting increased spiritual well-being.
 - Research published in *Frontiers in Psychology* (2020) demonstrated that group drumming sessions reduced inflammation markers and improved mood in participants with depression.
 - A 2019 systematic review in *Complementary Therapies in Medicine* found consistent evidence for sound-based interventions reducing anxiety and pain, though the authors noted the need for larger, more rigorous trials.
 
@@ -152,7 +152,7 @@ For DJs and producers interested in incorporating sound healing elements:
 
 Sound healing and conscious music experiences are not a fringe phenomenon. They represent a growing segment of the wellness and music industries:
 
-- The global wellness economy was valued at $5.6 trillion in 2022 (Global Wellness Institute), with sound healing one of its fastest-growing segments.
+- The global wellness economy was valued at $5.6 trillion in 2022 ([Global Wellness Institute](https://globalwellnessinstitute.org/)), with sound healing one of its fastest-growing segments.
 - Spotify data shows that "sound healing" and "sound bath" playlists have grown by over 300% in streams since 2020.
 - Major festivals including Burning Man, Lightning in a Bottle, and Envision (Costa Rica) now feature dedicated healing arts stages and workshops alongside their music programming.
 - Some [Ibiza venues](/journal/best-clubs-ibiza-2026/) have introduced wellness programming (sunrise yoga, sound baths) as part of their daytime offerings, recognizing that the island's audience increasingly seeks both peak experiences and recovery.

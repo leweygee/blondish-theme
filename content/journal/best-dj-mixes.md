@@ -129,7 +129,7 @@ The Blessed Madonna (formerly The Black Madonna) is known for marathon DJ sets t
 
 ## The BBC Essential Mix: Greatest Series of All Time
 
-Since 1993, BBC Radio 1's Essential Mix has been the most prestigious platform in electronic music. A two-hour mix, broadcast to millions, with complete creative freedom. The Essential Mix series has launched careers, cemented legacies, and produced some of the best DJ mixes ever recorded.
+Since 1993, [BBC Radio 1's Essential Mix](https://www.bbc.co.uk/programmes/b006wkfp) has been the most prestigious platform in electronic music. A two-hour mix, broadcast to millions, with complete creative freedom. The Essential Mix series has launched careers, cemented legacies, and produced some of the best DJ mixes ever recorded.
 
 ### Essential Mixes That Changed Everything
 
@@ -149,7 +149,7 @@ BBC Sounds hosts the most recent Essential Mixes for streaming. Older editions c
 
 ## Boiler Room Sets That Changed Everything
 
-Boiler Room transformed DJ culture by putting a camera in the booth and streaming sets live to a global audience. What started in a London flat in 2010 has become one of the most influential platforms in electronic music.
+[Boiler Room](https://boilerroom.tv/) transformed DJ culture by putting a camera in the booth and streaming sets live to a global audience. What started in a London flat in 2010 has become one of the most influential platforms in electronic music.
 
 ### Legendary Boiler Room Sets
 
@@ -210,11 +210,11 @@ One of the most common questions I get asked is where to find great DJ mixes. Th
 
 ### SoundCloud
 
-Still the most important platform for DJ mixes. SoundCloud's long-form audio format is ideal for mixes, and most DJs maintain active profiles. The platform's recommendation algorithm is also surprisingly good at surfacing new music. Free to use, with optional premium tiers.
+Still the most important platform for DJ mixes. [SoundCloud](https://soundcloud.com/)'s long-form audio format is ideal for mixes, and most DJs maintain active profiles. The platform's recommendation algorithm is also surprisingly good at surfacing new music. Free to use, with optional premium tiers.
 
 ### Mixcloud
 
-Built specifically for long-form audio and DJ mixes, Mixcloud handles music licensing on behalf of creators. This makes it the most legally straightforward platform for hosting mixes. The trade-off is that you cannot skip forward or back in a mix — you have to listen in sequence, which is arguably how mixes should be experienced.
+Built specifically for long-form audio and DJ mixes, [Mixcloud](https://www.mixcloud.com/) handles music licensing on behalf of creators. This makes it the most legally straightforward platform for hosting mixes. The trade-off is that you cannot skip forward or back in a mix — you have to listen in sequence, which is arguably how mixes should be experienced.
 
 ### BBC Sounds
 
@@ -234,7 +234,7 @@ Some DJs and labels release mixes as purchasable downloads on Bandcamp. This is 
 
 ### Resident Advisor
 
-RA's podcast series has been running since 2006 and features mixes from a carefully curated roster of DJs. The editorial context — each mix is accompanied by an interview or written feature — adds depth.
+[Resident Advisor](https://ra.co/)'s podcast series has been running since 2006 and features mixes from a carefully curated roster of DJs. The editorial context — each mix is accompanied by an interview or written feature — adds depth.
 
 ### Direct from Artists
 

@@ -117,7 +117,7 @@ Some of the most ambitious sustainability work in the music industry is happenin
 
 Shambala went completely meat-free and plastic-free in 2016, making it one of the first major UK festivals to take both steps simultaneously. They banned single-use plastic bottles, replaced all food vendor packaging with compostable materials, and powered their stages with a combination of solar panels and biodiesel from waste cooking oil. Their carbon footprint dropped by 80% over a five-year period.
 
-### DGTL Amsterdam (Netherlands)
+### [DGTL](https://dfrntly.com/) Amsterdam (Netherlands)
 
 DGTL has positioned itself as the world's most sustainable electronic music festival. Their approach is systems-level: they implemented a circular economy model where waste from one area becomes input for another. Food waste is composted on-site. They use blockchain-based tokens instead of cash to track and reduce resource consumption. Their 2024 edition achieved a 50% reduction in CO2 compared to their 2018 baseline.
 
@@ -234,7 +234,7 @@ LED and laser lighting has transformed stage production. A modern LED rig uses a
 
 ### Carbon Tracking Platforms
 
-Purpose-built platforms like LIVE Green, Julie's Bicycle, and A Greener Future provide frameworks for events to measure, report, and reduce their carbon footprint. Data is the foundation of progress — you cannot improve what you do not measure.
+Purpose-built platforms like LIVE Green, [Julie's Bicycle](https://juliesbicycle.com/), and A Greener Future provide frameworks for events to measure, report, and reduce their carbon footprint. Data is the foundation of progress — you cannot improve what you do not measure.
 
 ---
 
@@ -258,7 +258,7 @@ You do not need to be a headliner to make a difference. Here is a practical chec
 **Long-term commitments:**
 1. Prioritize promoters and festivals that have demonstrable sustainability policies
 2. Use your contract negotiations to push for greener production
-3. Support and amplify initiatives like [Bye Bye Plastic](/projects/bye-bye-plastic/), Music Declares Emergency, and Reverb
+3. Support and amplify initiatives like [Bye Bye Plastic](/projects/bye-bye-plastic/), [Music Declares Emergency](https://www.musicdeclares.net/), and Reverb
 4. Mentor emerging artists on sustainable touring practices
 
 The music industry runs on influence. When established artists make sustainability a visible priority, it gives permission and motivation for others to follow. Every rider clause, every social media post, every conversation with a promoter moves the needle.
@@ -283,7 +283,7 @@ The EU's Single-Use Plastics Directive, expanding environmental regulations in t
 
 ### Audience Expectations Are Shifting
 
-Younger audiences — the lifeblood of the live music industry — increasingly expect sustainability as a baseline, not a bonus feature. A 2023 survey by Eventbrite found that 78% of millennials and Gen Z respondents said a festival's environmental practices influenced their ticket purchasing decisions. This is not a niche concern. It is a market force.
+Younger audiences — the lifeblood of the live music industry — increasingly expect sustainability as a baseline, not a bonus feature. A 2023 survey by [Eventbrite](https://www.eventbrite.com/) found that 78% of millennials and Gen Z respondents said a festival's environmental practices influenced their ticket purchasing decisions. This is not a niche concern. It is a market force.
 
 ### A New Model for the Music Industry
 

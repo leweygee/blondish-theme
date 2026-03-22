@@ -154,9 +154,9 @@ Record sounds everywhere you go. Your phone has a capable microphone. A market i
 Rather than skimming the surface of a dozen synth plugins, learn one deeply. Understand every parameter. Know how to program it from scratch rather than relying on presets.
 
 Recommended starting points:
-- **Vital** (free, incredibly capable) — wavetable synthesis
-- **Diva** (u-he) — analog modeling, warm and musical
-- **Serum** (Xfer) — wavetable, industry standard for modern sound design
+- **[Vital](https://vital.audio/)** (free, incredibly capable) — wavetable synthesis
+- **[Diva](https://u-he.com/products/diva/)** (u-he) — analog modeling, warm and musical
+- **[Serum](https://xferrecords.com/products/serum/)** (Xfer) — wavetable, industry standard for modern sound design
 
 One synth, deeply understood, gives you more creative range than ten synths used superficially.
 
@@ -199,7 +199,7 @@ Start with three fundamentals: (1) Learn your DAW deeply — pick one (Ableton, 
 
 ### What software do I need for music production?
 
-You need a DAW (Digital Audio Workstation). The industry standards are **Ableton Live** (most popular for electronic music), **Logic Pro** (Mac only, excellent value), and **FL Studio** (popular for hip-hop and electronic). All three are capable of professional results. Start with one and learn it thoroughly. Most come with enough built-in instruments and effects to produce complete tracks.
+You need a DAW (Digital Audio Workstation). The industry standards are **[Ableton Live](https://www.ableton.com/)** (most popular for electronic music), **[Logic Pro](https://www.apple.com/logic-pro/)** (Mac only, excellent value), and **[FL Studio](https://www.image-line.com/)** (popular for hip-hop and electronic). All three are capable of professional results. Start with one and learn it thoroughly. Most come with enough built-in instruments and effects to produce complete tracks.
 
 ### How long does it take to produce a track?
 

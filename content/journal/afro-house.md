@@ -53,11 +53,11 @@ The term "afro house" began gaining traction in the late 2000s and early 2010s a
 
 **Culoe De Song** is widely recognized as one of the earliest producers to define the modern afro house sound. His 2009 debut album *A Giant Leap* blended Zulu musical traditions with deep, hypnotic house production in a way that felt unprecedented. Tracks like "Webaba" and "Rambo" demonstrated that African instrumentation could anchor a house track rather than merely decorate it.
 
-**Black Coffee** — born Nkosinathi Innocent Maphumulo in Durban, South Africa — is arguably the single most important figure in bringing afro house to global audiences. His 2005 debut *Black Coffee* and subsequent albums built a bridge between Johannesburg's house scene and the international circuit. By the early 2010s, his sets at venues like Hi Ibiza and festivals like Coachella were introducing millions of listeners to afro house for the first time. His 2022 Grammy Award for Best Dance/Electronic Album (*Subconsciously*) marked a watershed moment for the genre's recognition in the Western music industry.
+**Black Coffee** — born Nkosinathi Innocent Maphumulo in Durban, South Africa — is arguably the single most important figure in bringing afro house to global audiences. His 2005 debut *Black Coffee* and subsequent albums built a bridge between Johannesburg's house scene and the international circuit. By the early 2010s, his sets at venues like Hi Ibiza and festivals like Coachella were introducing millions of listeners to afro house for the first time. His 2022 [Grammy Award](https://www.grammy.com/) for Best Dance/Electronic Album (*Subconsciously*) marked a watershed moment for the genre's recognition in the Western music industry.
 
 **Da Capo**, another South African producer, helped refine the more melodic, atmospheric side of afro house. His work on labels like Soulistic Music and later Objektivity demonstrated the genre's capacity for emotional depth and cinematic scope.
 
-This period also saw the rise of key labels: **Soulistic Music** (Black Coffee's imprint), **Offering Recordings**, **MoBlack Records** (founded in Italy by Moblack, becoming a crucial conduit between African and European scenes), and **Watergate Records** — all of which became institutional pillars of the genre.
+This period also saw the rise of key labels: **Soulistic Music** (Black Coffee's imprint), **Offering Recordings**, **[MoBlack Records](https://www.moblackrecords.com/)** (founded in Italy by Moblack, becoming a crucial conduit between African and European scenes), and **Watergate Records** — all of which became institutional pillars of the genre.
 
 ---
 
@@ -133,7 +133,7 @@ Any list of essential afro house tracks is inherently incomplete — the genre's
 - **Caiiro — *Agora* (2020)** — A cohesive statement that showcases the range of contemporary afro house.
 - **Culoe De Song — *A Giant Leap* (2009)** — The album that arguably started it all.
 
-For anyone looking to explore these afro house songs and more, curated playlists and mixes remain the best entry point. A great afro house mix will take you on a journey that no playlist algorithm can replicate — it is about sequencing, tension, and the DJ's relationship with the music.
+For anyone looking to explore these afro house songs and more, curated playlists on [Spotify](https://open.spotify.com/), charts on [Beatport](https://www.beatport.com/), and editorial features on [Resident Advisor](https://ra.co/) remain the best entry points. A great afro house mix will take you on a journey that no playlist algorithm can replicate — it is about sequencing, tension, and the DJ's relationship with the music.
 
 [Browse the latest releases](/music/)
 

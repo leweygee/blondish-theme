@@ -293,7 +293,7 @@ The rise of female-founded and female-led events — from boutique gatherings to
 
 ### Media and Platform Builders
 
-From podcasts to online communities to educational platforms, women are building the connective tissue of electronic music culture. Platforms like **EQ50**, **Femme Electronic**, and **shesaid.so** have created networks, mentorship opportunities, and visibility for women across the industry.
+From podcasts to online communities to educational platforms, women are building the connective tissue of electronic music culture. Platforms like **EQ50**, **Femme Electronic**, **shesaid.so**, and editorial coverage on [Resident Advisor](https://ra.co/) have created networks, mentorship opportunities, and visibility for women across the industry.
 
 ---
 
@@ -316,10 +316,10 @@ This isn't peripheral to the conversation about women in electronic music. It's 
 
 The progress is real, but the work isn't done. Here's where things stand:
 
-- **Festival lineups:** Major electronic music festivals now average approximately 20-30% female or non-binary artists on their lineups, up from under 10% a decade ago. Some festivals, particularly in the UK and Northern Europe, have reached or exceeded parity.
+- **Festival lineups:** According to data tracked by outlets like [DJ Mag](https://djmag.com/) and [Mixmag](https://mixmag.net/), major electronic music festivals now average approximately 20-30% female or non-binary artists on their lineups, up from under 10% a decade ago. Some festivals, particularly in the UK and Northern Europe, have reached or exceeded parity.
 - **Label representation:** Women-run labels have increased significantly, though the majority of the top 100 labels by revenue are still male-led.
 - **Pay gap:** While exact figures are difficult to verify in an industry built on private negotiations, industry surveys consistently report that female DJs earn less than male DJs at equivalent career stages.
-- **Streaming and visibility:** Female electronic artists have seen disproportionate growth in streaming numbers over the past five years, suggesting that audience demand is outpacing industry supply.
+- **Streaming and visibility:** Across platforms like [Beatport](https://www.beatport.com/) and Spotify, female electronic artists have seen disproportionate growth in streaming numbers over the past five years, suggesting that audience demand is outpacing industry supply.
 
 The takeaway: the talent exists, the audience exists, and the infrastructure is being built. The bottleneck remains in gatekeeping — booking, billing, and budgets still skew heavily male in many markets.
 

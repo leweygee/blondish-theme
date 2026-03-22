@@ -168,7 +168,7 @@ But October in Ibiza is not dead. The final closing parties — particularly DC-
 
 This is the section everyone wants. Here is an honest assessment of every major Ibiza club, based on more than a decade of attending and covering them. For deeper detail on each venue — including genre breakdowns, insider tips, and beach clubs — see our [complete guide to the best clubs in Ibiza](/journal/best-clubs-ibiza/).
 
-### Hï Ibiza
+### [Hï Ibiza](https://www.hiibiza.com/)
 
 **Location:** Playa d'en Bossa
 **Capacity:** ~5,000
@@ -220,7 +220,7 @@ The main room is a different beast: dark, loud, intense. It is best suited for h
 
 **Insider tip:** Arrive before 2am if you want to experience the terrace before it gets too crowded to move. The terrace at sunrise is the defining Ibiza moment.
 
-### Pacha
+### [Pacha](https://www.pacha.com/)
 
 **Location:** Ibiza Town (marina area)
 **Capacity:** ~3,000
@@ -350,7 +350,7 @@ Ibiza DJ residency announcements typically follow this calendar:
 - **May:** Final programming locked in for opening month
 - **Throughout the season:** Special guest additions and one-off events
 
-Follow the official venue social media accounts and sign up for their mailing lists. Third-party sites like Ibiza Spotlight aggregate announcements but can lag behind the venues' own channels by days or weeks.
+Follow the official venue social media accounts and sign up for their mailing lists. Third-party sites like [Ibiza Spotlight](https://www.ibiza-spotlight.com/) aggregate announcements but can lag behind the venues' own channels by days or weeks.
 
 For BLOND:ISH's Ibiza dates, including all Abracadabra events, check the [tour dates](/tour/) page — dates are updated as soon as they are confirmed.
 

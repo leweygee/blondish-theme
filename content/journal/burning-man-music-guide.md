@@ -34,9 +34,9 @@ Sound camps are themed camps that center their community contribution around a m
 
 **The major sound camps** (as of recent years — camps evolve and not all return every year):
 
-- **Robot Heart** — The most famous art car (bus) on the playa. Robot Heart's sunrise sets are the most sought-after DJ slot at Burning Man. The bus drives to the deep playa, deploys a Funktion-One sound system, and DJs play as the sun comes up over the Black Rock Desert. The crowd experience is transcendent. Past sunrise DJs have included Damian Lazarus, Lee Burridge, BLOND:ISH, and Tale of Us.
+- **[Robot Heart](https://www.robotheart.com/)** — The most famous art car (bus) on the playa. Robot Heart's sunrise sets are the most sought-after DJ slot at Burning Man. The bus drives to the deep playa, deploys a Funktion-One sound system, and DJs play as the sun comes up over the Black Rock Desert. The crowd experience is transcendent. Past sunrise DJs have included Damian Lazarus, Lee Burridge, BLOND:ISH, and Tale of Us.
 
-- **Mayan Warrior** — A jaw-dropping art car created by a Mexican collective, featuring sculpture, pyrotechnics, and a Void Acoustics sound system. Mayan Warrior's programming leans toward [melodic house](/journal/melodic-house-music-guide/), techno, and the deeper end of electronic music. The production quality rivals any festival stage.
+- **[Mayan Warrior](https://mayanwarrior.com/)** — A jaw-dropping art car created by a Mexican collective, featuring sculpture, pyrotechnics, and a Void Acoustics sound system. Mayan Warrior's programming leans toward [melodic house](/journal/melodic-house-music-guide/), techno, and the deeper end of electronic music. The production quality rivals any festival stage.
 
 - **Distrikt** — One of the largest sound camps, known for deep house, techno, and a massive LED-covered stage structure. Consistently excellent programming and one of the playa's most reliable dancefloors.
 
@@ -116,7 +116,7 @@ Burning Man operates on a Leave No Trace principle — everything that comes in 
 - Picking up every cigarette butt, bottle cap, and piece of MOOP (Matter Out Of Place) within your camp footprint
 - Ensuring your generators and power systems don't leave fuel stains on the playa surface
 
-The music community at Burning Man takes this seriously because the event's survival depends on it. The Bureau of Land Management evaluates the playa after every Burn, and environmental violations threaten the event's permit.
+The music community at Burning Man takes this seriously because the event's survival depends on it. The [Bureau of Land Management](https://www.blm.gov/) evaluates the playa after every Burn, and environmental violations threaten the event's permit.
 
 This ethos aligns directly with the broader [sustainability movement in music](/journal/sustainability-music-industry/) that artists like BLOND:ISH champion through initiatives like [Bye Bye Plastic](/projects/bye-bye-plastic/).
 

@@ -25,7 +25,7 @@ Whether you are planning your first trip or your fiftieth, this guide covers the
 
 These are the venues that put Ibiza on the map. The clubs in Ibiza that every music lover should experience at least once. They are massive, they are loud, and on the right night, they are genuinely some of the best places on earth to hear electronic music.
 
-### Pacha Ibiza
+### [Pacha](https://www.pacha.com/) Ibiza
 
 - **Location:** Ibiza Town (Eivissa), waterfront on Passeig de Joan Carles I
 - **Capacity:** ~3,500
@@ -42,7 +42,7 @@ I have been to Pacha more times than I can count. The crowd is international, mu
 
 **Best for:** Your first big Ibiza night out. House music lovers. Anyone who wants to understand why Ibiza became Ibiza.
 
-### Amnesia Ibiza
+### [Amnesia Ibiza](https://www.amnesia.es/)
 
 - **Location:** San Rafael, on the road between Ibiza Town and San Antonio
 - **Capacity:** ~5,000
@@ -100,7 +100,7 @@ The crowd at Ushuaia skews younger and more international. It is unabashedly a s
 
 DC-10 is the church. There is no other way to say it. This converted aircraft hangar next to the airport runway is where Ibiza's underground soul lives. The decor is essentially nonexistent — concrete floors, industrial lighting, a garden with plastic chairs. And it is absolutely, categorically, one of the best clubs in Ibiza and one of the best clubs in the world.
 
-The magic of DC-10 is Circoloco, the Monday party running since 1999. Circoloco proved that you did not need LED walls or CO2 cannons. You needed a dark room, an absurdly good sound system, and DJs who understood that the music is the point. The Garden sets — particularly the early afternoon slots — are some of the most coveted in the industry.
+The magic of DC-10 is [Circoloco](https://www.circoloco.net/), the Monday party running since 1999. Circoloco proved that you did not need LED walls or CO2 cannons. You needed a dark room, an absurdly good sound system, and DJs who understood that the music is the point. The Garden sets — particularly the early afternoon slots — are some of the most coveted in the industry.
 
 I have a deep personal history with DC-10. Circoloco is a rite of passage for any DJ serious about underground music, and for any journalist covering the scene, it is essential. The crowd is the most musically educated on the island. Everyone is there because they know. The sound system is devastating in the best possible way — when a kick drum hits in that main room, you feel it in your bones.
 
@@ -298,7 +298,7 @@ Ibiza is notably more relaxed than most clubbing destinations. There is no stric
 
 ### Tickets and Entry for Clubs in Ibiza
 
-**Always buy tickets in advance online.** This is not a suggestion — during peak season, many events sell out, and even those that do not will charge significantly more at the door. Buying a ticket online in advance saves you €10–30 on most nights and guarantees entry. Check each club's website directly, or use reputable ticket platforms.
+**Always buy tickets in advance online.** This is not a suggestion — during peak season, many events sell out, and even those that do not will charge significantly more at the door. Buying a ticket online in advance saves you €10–30 on most nights and guarantees entry. Check each club's website directly, or use reputable ticket platforms like [Ibiza Spotlight](https://www.ibiza-spotlight.com/).
 
 VIP tables range from **€500 to €5,000+** depending on the venue and night. Unless you have a specific reason to want table service, the dance floor is where the experience lives.
 

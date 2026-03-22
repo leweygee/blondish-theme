@@ -78,9 +78,9 @@ The combination of house music, MDMA, and the communal ecstasy of the rave — i
 
 The 1990s saw rave culture move from illegal warehouses to licensed venues, giving birth to the superclub:
 
-- **Ministry of Sound** (London, 1991) — Modeled on the Paradise Garage, with a custom sound system and a no-photography policy to protect the dancefloor experience
+- **[Ministry of Sound](https://www.ministryofsound.com/)** (London, 1991) — Modeled on the Paradise Garage, with a custom sound system and a no-photography policy to protect the dancefloor experience
 - **Cream** (Liverpool, 1992) — A weekly club night that became a global brand
-- **Fabric** (London, 1999) — Three rooms, a bass-heavy custom system built into the floor, and programming that consistently championed underground music
+- **[Fabric](https://www.fabriclondon.com/)** (London, 1999) — Three rooms, a bass-heavy custom system built into the floor, and programming that consistently championed underground music
 - **Berghain** (Berlin, 2004) — The 21st century's most culturally significant nightclub
 
 ### Ibiza: The Global Hub
@@ -132,7 +132,7 @@ This represents not a departure from club culture's roots but a return to them. 
 
 - **Global diversification** — Club culture is thriving in cities that were peripheral to the traditional US/UK/European axis: Nairobi, São Paulo, Beirut, Tbilisi, Mexico City.
 - **Technology** — Immersive audio (Dolby Atmos, spatial audio systems), AI-assisted lighting, and improved sound system design are creating new possibilities for the club experience.
-- **Cultural recognition** — Berlin's club culture was added to UNESCO's intangible cultural heritage list. Other cities are following with nightlife protection policies.
+- **Cultural recognition** — Berlin's club culture was added to [UNESCO's intangible cultural heritage list](https://ich.unesco.org/). Other cities are following with nightlife protection policies.
 
 ---
 

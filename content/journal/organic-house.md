@@ -21,7 +21,7 @@ If you have ever searched for "organic house" and found vague answers, this is t
 
 **Organic house** is a subgenre of house music that foregrounds acoustic and world-music instrumentation --- hand drums, strings, flutes, kalimbas, singing bowls, and live vocals --- layered over deep, hypnotic grooves typically ranging from 118 to 124 BPM. Unlike traditional house, which leans on synthesizers and drum machines, organic house draws its palette from the natural and the human. The production ethos is less about engineering a peak-time drop and more about cultivating a journey: textural, emotional, and often spiritual.
 
-The term gained currency in the mid-2010s as DJs and producers who had been experimenting at the intersection of deep house, afro house, and downtempo began to coalesce around a shared sonic identity. Beatport officially recognized "Organic House / Downtempo" as a genre category in 2020, cementing what listeners and artists had already felt for years.
+The term gained currency in the mid-2010s as DJs and producers who had been experimenting at the intersection of deep house, afro house, and downtempo began to coalesce around a shared sonic identity. [Beatport](https://www.beatport.com/) officially recognized "Organic House / Downtempo" as a genre category in 2020, cementing what listeners and artists had already felt for years.
 
 **In short:** if deep house is the body and melodic techno is the mind, organic house is the soul.
 
@@ -33,16 +33,16 @@ The term gained currency in the mid-2010s as DJs and producers who had been expe
 
 Organic house did not appear from nowhere. Its DNA traces back to several threads:
 
-- **Balearic and Ibiza chill-out culture** of the 1990s, where DJs like Jose Padilla blended ambient electronics with acoustic world music at Cafe del Mar.
+- **Balearic and Ibiza chill-out culture** of the 1990s, where DJs like Jose Padilla blended ambient electronics with acoustic world music at [Cafe del Mar](https://www.cafedelmar.com/).
 - **The deep house renaissance** of the late 2000s, led by labels like Innervisions and Visionquest, which reintroduced musicality and warmth into minimal-fatigued dancefloors.
-- **Burning Man and desert festival culture**, where the environment demanded music that breathed --- long sets, slow builds, and a connection to the earth rather than the club.
+- **[Burning Man](https://burningman.org/) and desert festival culture**, where the environment demanded music that breathed --- long sets, slow builds, and a connection to the earth rather than the club.
 
 ### The Crystallization (2010--2016)
 
 By the early 2010s, a handful of artists and events began defining what would become organic house:
 
-- **Lee Burridge** launched **All Day I Dream** in 2011 as a daytime party series in New York. Its sound --- dreamy, melodic, emotionally rich house with acoustic textures --- became the template that many associate with organic house today.
-- **Damian Lazarus** founded **Crosstown Rebels** (2003) and later the **Day Zero** festival at the Mayan ruins of Tulum, where indigenous instruments and ceremony merged with electronic production.
+- **Lee Burridge** launched **[All Day I Dream](https://www.alldayidream.com/)** in 2011 as a daytime party series in New York. Its sound --- dreamy, melodic, emotionally rich house with acoustic textures --- became the template that many associate with organic house today.
+- **Damian Lazarus** founded **[Crosstown Rebels](https://www.crosstownrebels.com/)** (2003) and later the **Day Zero** festival at the Mayan ruins of Tulum, where indigenous instruments and ceremony merged with electronic production.
 - **BLOND:ISH** (Vivie-Ann Bakos) emerged from the Montreal underground and quickly became known for DJ sets that wove African percussion, Middle Eastern melodies, and Latin rhythms into deep, driving house. Her early releases on Kompakt and Supplement Facts signaled a producer who refused to separate electronic music from its acoustic roots.
 
 ### Beatport Recognition and Mainstream Growth (2017--Present)

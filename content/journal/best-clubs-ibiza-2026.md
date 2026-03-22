@@ -26,7 +26,7 @@ The reason is simple: Ibiza's club infrastructure is unmatched anywhere in the w
 
 In 2026, the island's nightlife has also evolved significantly. The monoculture of big-room EDM that dominated the 2010s has given way to a genuine diversity of sound. You can hear [organic house](/journal/organic-house-music-guide/) at a sunrise set, [afro house](/journal/afro-house-music-guide/) at a pool party, underground techno in a basement, and [melodic house](/journal/melodic-house-music-guide/) on a terrace — all on the same day.
 
-BLOND:ISH has been a fixture of Ibiza's music scene for over a decade, playing residencies and headline sets at nearly every major venue on the island. Her perspective — and the perspective of the artists and industry people I've spoken to for this guide — informs every recommendation below.
+BLOND:ISH has been a fixture of Ibiza's music scene for over a decade, playing residencies and headline sets at nearly every major venue on the island. Her perspective — and the perspective of the artists and industry people I've spoken to for this guide — informs every recommendation below. For the island's official club and events calendar, [Ibiza Spotlight](https://www.ibiza-spotlight.com/) remains the most reliable independent resource.
 
 ---
 
@@ -40,7 +40,7 @@ BLOND:ISH has been a fixture of Ibiza's music scene for over a decade, playing r
 **Music:** House, tech house, organic house, pop crossover nights
 **Door policy:** Smart casual minimum. No sportswear, no beach attire.
 
-Pacha is Ibiza's oldest surviving superclub, operating since 1973. The cherry logo is as much a part of the island's identity as the sunset at Cafe del Mar. But Pacha in 2026 is not living on nostalgia. A major renovation completed in 2022 upgraded the sound system, lighting, and ventilation while preserving the intimate multi-room layout that makes Pacha unique among Ibiza's mega-venues.
+[Pacha](https://www.pacha.com/) is Ibiza's oldest surviving superclub, operating since 1973. The cherry logo is as much a part of the island's identity as the sunset at Cafe del Mar. But Pacha in 2026 is not living on nostalgia. A major renovation completed in 2022 upgraded the sound system, lighting, and ventilation while preserving the intimate multi-room layout that makes Pacha unique among Ibiza's mega-venues.
 
 The club's programming has shifted toward more musically credible bookings in recent years. Solomun's residency remains the island's hottest ticket, but the real story is the midweek programming — nights dedicated to [organic house](/journal/organic-house-music-guide/), Afro-Latin sounds, and deeper house that would have been unthinkable in Pacha a decade ago.
 
@@ -58,7 +58,7 @@ The club's programming has shifted toward more musically credible bookings in re
 
 If Pacha is Ibiza's glamour, DC-10 is its soul. Located next to the airport runway — planes literally fly overhead during sets — DC-10 has been the island's underground headquarters since the early 2000s. The venue is deliberately stripped back: no VIP areas worth mentioning, no bottle service theatrics, concrete floors, and a sound system that hits you in the chest.
 
-Circoloco, the Monday institution that has run at DC-10 since 1999, remains the island's most important weekly party. The programming consistently prioritizes musical credibility over commercial pull. In recent seasons, Circoloco has increasingly featured afro house and organic house artists alongside its techno and house core — a reflection of where the underground is moving.
+[Circoloco](https://www.circoloco.net/), the Monday institution that has run at DC-10 since 1999, remains the island's most important weekly party. The programming consistently prioritizes musical credibility over commercial pull. In recent seasons, Circoloco has increasingly featured afro house and organic house artists alongside its techno and house core — a reflection of where the underground is moving.
 
 **Insider tip:** Arrive for the terrace opening. The outdoor area at DC-10, with its low ceiling and airport views, is one of the most iconic dancefloors in the world. By mid-afternoon, the energy is extraordinary.
 
@@ -173,7 +173,7 @@ A more relaxed alternative to the high-energy beach clubs. Located on Playa d'en
 
 ### Getting Around
 
-**Disco Bus:** The official nightlife bus service runs routes connecting the main club areas (Playa d'en Bossa, San Antonio, Ibiza Town) throughout the night. It's cheap (EUR 4), reliable, and by far the most sensible way to get around after midnight.
+**[Disco Bus](https://ibizabus.com/):** The official nightlife bus service runs routes connecting the main club areas (Playa d'en Bossa, San Antonio, Ibiza Town) throughout the night. It's cheap (EUR 4), reliable, and by far the most sensible way to get around after midnight.
 
 **Taxis:** Available but expensive at peak hours, and the wait can be extreme after closing time. Pre-book if possible.
 

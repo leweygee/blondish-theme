@@ -48,9 +48,9 @@ This is the skill that separates good DJs from people who can operate DJ equipme
 
 Start building a music library. This doesn't mean downloading thousands of tracks. It means curating intentionally:
 
-- **Beatport** and **Bandcamp** are the primary sources for electronic music. Beatport for club-ready tracks organized by genre; Bandcamp for independent releases and deeper cuts.
+- **[Beatport](https://www.beatport.com/)** and **[Bandcamp](https://bandcamp.com/)** are the primary sources for electronic music. Beatport for club-ready tracks organized by genre; Bandcamp for independent releases and deeper cuts.
 - **Create folders or playlists by energy level**, not just genre. A track's energy is more important than its genre label when you're building a set.
-- **Study DJ charts and mixes.** When a DJ you admire plays a set, try to identify the tracks. Tools like Shazam and 1001tracklists can help. The goal is to understand their selection and sequencing logic.
+- **Study DJ charts and mixes.** When a DJ you admire plays a set, try to identify the tracks. Tools like [Shazam](https://www.shazam.com/) and [1001tracklists](https://www.1001tracklists.com/) can help. The goal is to understand their selection and sequencing logic.
 - **Start with 50-100 tracks you know intimately.** You should be able to hum the bassline, know where the breakdowns are, and feel how the energy shifts. This is more valuable than having 10,000 tracks you half-know.
 
 ### Understand Genre Landscapes
@@ -78,9 +78,9 @@ There are three main equipment paths for beginner DJs. Each has trade-offs.
 **Budget:** USD 250-800 for the controller; software is often included or free for basic versions.
 
 **Recommended controllers:**
-- **Pioneer DDJ-400** (entry level, Rekordbox integration) — ~USD 250
+- **[Pioneer DDJ-400](https://www.pioneerdj.com/)** (entry level, Rekordbox integration) — ~USD 250
 - **Pioneer DDJ-800** (mid-range, closer to club-standard layout) — ~USD 800
-- **Traktor Kontrol S2** (Native Instruments ecosystem) — ~USD 300
+- **[Traktor Kontrol S2](https://www.native-instruments.com/)** (Native Instruments ecosystem) — ~USD 300
 
 **Pros:** Affordable, portable, immediate access to your entire digital library, built-in effects, visual waveforms on screen to help with beatmatching.
 
@@ -155,7 +155,7 @@ This is the art of DJing — choosing what to play and when. No technology can r
 
 - **Reading the room:** Observing how the crowd responds. Are people dancing? Are they leaving? Is the energy rising or falling? Adjust accordingly.
 - **Energy management:** A great DJ set has an arc — a beginning, a middle, and an end. It builds, releases, builds again, peaks, and resolves. Playing your biggest track first is almost always wrong.
-- **Harmonic awareness:** Tracks in compatible musical keys mix more smoothly. Tools like Mixed In Key can analyze your library, but training your ear is better long-term.
+- **Harmonic awareness:** Tracks in compatible musical keys mix more smoothly. Tools like [Mixed In Key](https://mixedinkey.com/) can analyze your library, but training your ear is better long-term.
 
 ---
 
@@ -176,7 +176,7 @@ This is the art of DJing — choosing what to play and when. No technology can r
 
 ### Building an Online Presence
 
-- **Upload mixes to SoundCloud and Mixcloud.** These are the primary platforms for DJ mixes. Tag them well. Be consistent.
+- **Upload mixes to [SoundCloud](https://soundcloud.com/) and [Mixcloud](https://www.mixcloud.com/).** These are the primary platforms for DJ mixes. Tag them well. Be consistent.
 - **Create a simple website or bio page** with your mixes, contact info, and a brief bio.
 - **Social media should serve the music**, not replace it. Share clips, studio sessions, track discoveries. Avoid the trap of performing a DJ identity online without doing the actual work.
 

@@ -163,13 +163,13 @@ If you are reading this and thinking "I want in," here is how to start.
 
 ### Online Platforms
 
-- **Resident Advisor** — Still the closest thing the underground has to a paper of record. Reviews, features, and event listings worldwide.
-- **Bandcamp** — The most artist-friendly platform, and a goldmine for underground house releases that never make it to streaming.
-- **Discogs** — Not just for buying records. The database itself is an encyclopedia of underground music history.
+- **[Resident Advisor](https://ra.co/)** — Still the closest thing the underground has to a paper of record. Reviews, features, and event listings worldwide.
+- **[Bandcamp](https://bandcamp.com/)** — The most artist-friendly platform, and a goldmine for underground house releases that never make it to streaming.
+- **[Discogs](https://www.discogs.com/)** — Not just for buying records. The database itself is an encyclopedia of underground music history.
 
 ### Boiler Room and Live Streams
 
-Boiler Room changed the game when it launched in 2010, giving the underground a visual language that could travel globally. A Boiler Room set from a basement in London could inspire a party in Sao Paulo. In 2026, platforms like HOR (Berlin) and The Lot Radio (New York) continue the tradition. These are not replacements for being in the room, but they are the best way to discover new underground house DJs from your living room.
+[Boiler Room](https://boilerroom.tv/) changed the game when it launched in 2010, giving the underground a visual language that could travel globally. A Boiler Room set from a basement in London could inspire a party in Sao Paulo. In 2026, platforms like HOR (Berlin) and The Lot Radio (New York) continue the tradition. These are not replacements for being in the room, but they are the best way to discover new underground house DJs from your living room.
 
 ### Radio
 

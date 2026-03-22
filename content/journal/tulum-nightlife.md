@@ -42,7 +42,7 @@ Explore more destination guides and genre deep-dives on the [NRG Zine](/journal/
 
 The venue is everything in Tulum. Each space has its own energy, its own crowd, its own relationship with the jungle. Here is the definitive breakdown of the best clubs in Tulum, ranked by someone who has spent countless nights in all of them.
 
-### Zamna Tulum
+### [Zamna](https://zamnatulum.com/) Tulum
 
 **Best for:** Once-in-a-lifetime experiences, headliner sets, cenote raves
 **Vibe:** Grand, cinematic, spiritual
@@ -140,7 +140,7 @@ This is when the Tulum music scene operates at full throttle. The major events i
 **Zamna Festival (December–January)**
 The flagship. Zamna's own programming runs a series of multi-day events across the holiday season, featuring dedicated nights for brands like Afterlife, Keinemusik, and Zamna's in-house curation. These sell out months in advance. If Zamna is on your bucket list, book by September.
 
-**Day Zero (December 30–31)**
+**[Day Zero](https://www.dayzerofestival.com/) (December 30–31)**
 Founded by Damian Lazarus, Day Zero is arguably the single most iconic Tulum music festival event. Held in the jungle near Zamna, it is a New Year's countdown that draws a global crowd. The production is extraordinary — think Burning Man aesthetics meets Mayan jungle. Tickets move fast and aftermarket prices can be steep.
 
 **Cosmic Convergence (late December–early January)**

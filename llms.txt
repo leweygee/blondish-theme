@@ -1,50 +1,47 @@
-# BLOND:ISH
+# NRG Zine
 
-> BLOND:ISH (Vivie-Ann Bakos) is a Canadian-born, globally touring DJ, producer, and sustainability advocate known for pioneering organic house music.
+> A living archive of energy, culture, and global nightlife intelligence — by the community, for the community.
 
-BLOND:ISH is an electronic music artist with 390+ releases spanning 15+ years. Based between Ibiza and the global touring circuit, she is recognized as one of the most influential figures in organic house, afro house, and melodic house music. She founded the Abracadabra record label and events platform, and the Bye Bye Plastic sustainability initiative to eliminate single-use plastics from music events worldwide.
+NRG Zine is an independent cultural publication covering electronic music, nightlife, sustainability, and conscious culture. Published from within the global dance music community, it features multiple editorial voices and community contributions. The zine operates from blondish.world but maintains editorial independence as a community resource.
 
-The NRG Zine is BLOND:ISH's editorial platform covering electronic music culture, sustainability, and conscious living.
+## Music — Genre Guides, Production, DJ Culture
 
-## NRG Zine — Genre Guides
+- [Organic House Music: The Definitive Guide](https://blondish.world/zine/music/organic-house-music-guide/): Origins, defining artists (BLOND:ISH, Lee Burridge, Bedouin), essential tracks, key labels (Abracadabra, All Day I Dream), and genre comparisons.
+- [Afro House Music: Origins, Artists & Essential Tracks](https://blondish.world/zine/music/afro-house-music-guide/): South African origins from kwaito to modern afro house, key artists (Black Coffee, Shimza, Caiiro), essential tracks and global scene.
+- [Melodic House Music Guide](https://blondish.world/zine/music/melodic-house-music-guide/): Artists, labels like Afterlife and Diynamic, and the genre's evolution.
+- [Underground House Music Guide](https://blondish.world/zine/music/underground-house-music-guide/): Labels, events, and artists keeping house music's original spirit alive.
+- [Best DJ Mixes: Essential Listening](https://blondish.world/zine/music/best-dj-mixes/): Curated list of essential DJ mixes across house, techno, and electronic genres.
+- [How to Get Into DJing](https://blondish.world/zine/music/how-to-get-into-djing/): Complete beginner's guide — equipment, beatmatching, track selection, first gigs.
+- [Music Production Tips From Working Producers](https://blondish.world/zine/music/production-tips/): Professional workflow — starting ideas, arrangement, mixing, finishing tracks.
 
-- [Organic House Music: The Definitive Guide](https://blondish.world/journal/organic-house-music-guide/): Complete guide to organic house music — origins, defining artists (BLOND:ISH, Lee Burridge, Bedouin), essential tracks, key labels (Abracadabra, All Day I Dream), and genre comparisons.
-- [Afro House Music: Origins, Artists & Essential Tracks](https://blondish.world/journal/afro-house-music-guide/): Comprehensive guide to afro house — South African origins from kwaito to modern afro house, key artists (Black Coffee, Shimza, Caiiro), essential tracks, subgenres, and the global scene.
-- [Melodic House Music Guide](https://blondish.world/journal/melodic-house-music-guide/): Guide to melodic house and techno — artists, labels like Afterlife, and the sound's evolution from deep house to modern melodic techno.
-- [Best Female DJs in Electronic Music](https://blondish.world/journal/best-female-djs/): Celebrating women in electronic music — top female DJs, their impact, and the changing landscape of gender in dance music.
-- [Underground House Music Guide](https://blondish.world/journal/underground-house-music-guide/): Guide to the underground house scene — labels, events, and artists keeping house music's original spirit alive.
-- [Best DJ Mixes: Essential Listening](https://blondish.world/journal/best-dj-mixes/): Curated list of essential DJ mixes across house, techno, and electronic music genres.
-- [Club Culture: A History From Disco to the Digital Dancefloor](https://blondish.world/journal/club-culture-history-guide/): The history of club culture from 1970s New York disco through Chicago house, Detroit techno, UK rave, and the global dancefloor of today.
-- [How to Get Into DJing: Everything You Need to Know](https://blondish.world/journal/how-to-get-into-djing/): Complete beginner's guide to DJing — equipment, skills, practice, and getting your first gig.
-- [Music Production Tips From Working Producers](https://blondish.world/journal/music-production-tips-from-working-producers/): Professional production workflow tips — starting ideas, arrangement, mixing, and finishing tracks.
+## Ibiza — Insider Guides & Seasonal Intelligence
 
-## NRG Zine — Scene Reports
+- [Best Clubs in Ibiza 2026](https://blondish.world/zine/ibiza/best-clubs-ibiza-2026/): Insider guide to every major venue — Pacha, DC-10, Hi Ibiza, Amnesia, Cova Santa. Capacity, music, door policies, honest opinions.
+- [Ibiza Nightlife Guide](https://blondish.world/zine/ibiza/nightlife-guide/): Complete guide to the island's electronic music culture, parties, and seasonal calendar.
+- [Ibiza Club Guide](https://blondish.world/zine/ibiza/clubs-guide/): Detailed venue-by-venue breakdown with music styles and practical information.
 
-- [Best Clubs in Ibiza 2026: The Insider's Guide](https://blondish.world/journal/best-clubs-ibiza-2026/): Detailed guide to every major Ibiza club — Pacha, DC-10, Hi Ibiza, Amnesia, plus smaller venues and practical tips.
-- [Ibiza Nightlife Guide](https://blondish.world/journal/ibiza-nightlife-guide/): Insider guide to Ibiza's electronic music culture, parties, and the island's unique nightlife ecosystem.
-- [Ibiza Club Guide](https://blondish.world/journal/ibiza-clubs-guide/): Club-by-club breakdown of Ibiza's venues with music styles, door policies, and insider tips.
-- [Tulum Nightlife Guide](https://blondish.world/journal/tulum-nightlife-guide/): Guide to Tulum's music scene — jungle venues, cenotes, and the best parties in Mexico's electronic music capital.
-- [Burning Man Music Guide](https://blondish.world/journal/burning-man-music-guide/): Complete guide to music at Burning Man — sound camps, art cars, sunrise sets, and how to navigate Black Rock City's sonic landscape.
+## Culture — Community Stories, Scene Reports, Festivals
 
-## NRG Zine — Culture & Sustainability
+- [Best Female DJs in Electronic Music](https://blondish.world/zine/culture/female-djs-electronic-music/): Women transforming electronic music — top female DJs and the changing landscape.
+- [Club Culture: Disco to the Digital Dancefloor](https://blondish.world/zine/culture/club-culture-history/): History of nightlife from 1970s New York through Chicago house, UK rave, and today.
+- [Tulum Nightlife Guide](https://blondish.world/zine/culture/tulum-nightlife/): Jungle venues, cenotes, and Mexico's electronic music capital.
+- [Burning Man Music Guide](https://blondish.world/zine/culture/burning-man-music/): Sound camps, art cars, sunrise sets, and navigating Black Rock City.
+- [Music Festival Packing List](https://blondish.world/zine/culture/festival-packing-list/): Complete checklist with sustainable alternatives for every essential.
 
-- [Sustainability in the Music Industry](https://blondish.world/journal/sustainability-music-industry/): How the music industry is going green — from Bye Bye Plastic to eco-festivals, carbon footprints, and practical solutions for artists, venues, and fans.
-- [Music Festival Packing List: The Sustainable Guide](https://blondish.world/journal/music-festival-packing-list/): Complete festival packing checklist with sustainable alternatives for every essential item.
+## Energy — Consciousness, Sustainability, Science of Sound
 
-## NRG Zine — Wellness & Consciousness
+- [Sound Healing and Electronic Music](https://blondish.world/zine/energy/sound-healing-electronic-music/): Neuroscience of bass, entrainment, and why the dancefloor works like a healing ritual.
+- [Sustainability in the Music Industry](https://blondish.world/zine/energy/sustainability-music-industry/): How music is going green — Bye Bye Plastic, eco-festivals, carbon footprints, and solutions.
 
-- [Sound Healing and Electronic Music](https://blondish.world/journal/sound-healing-electronic-music/): The connection between ancient sound healing traditions and modern electronic music — science, frequencies, and the dancefloor as healing space.
+## About
 
-## Core Pages
+- [About BLOND:ISH](https://blondish.world/about/): Biography of Vivie-Ann Bakos — DJ, producer, and founder of Abracadabra and Bye Bye Plastic.
+- [Tour Dates](https://blondish.world/tour/): Upcoming events and tickets.
+- [Music / Discography](https://blondish.world/music/): 390+ releases.
+- [Abracadabra](https://blondish.world/projects/abracadabra/): Record label and events platform.
+- [Bye Bye Plastic](https://blondish.world/projects/bye-bye-plastic/): Sustainability initiative.
 
-- [About BLOND:ISH](https://blondish.world/about/): Biography of Vivie-Ann Bakos — career history, artistic vision, and global impact as a DJ, producer, and activist.
-- [Tour Dates & Events](https://blondish.world/tour/): Upcoming BLOND:ISH performances and ticket links worldwide.
-- [Music / Discography](https://blondish.world/music/): Full discography with 390+ releases across labels including Kompakt, Crosstown Rebels, Disco Halal, and Abracadabra.
-- [Abracadabra](https://blondish.world/projects/abracadabra/): Record label and events platform founded by BLOND:ISH — home to organic house, afro house, and world-influenced electronic music.
-- [Bye Bye Plastic](https://blondish.world/projects/bye-bye-plastic/): Global sustainability initiative founded by BLOND:ISH dedicated to eliminating single-use plastics from music events and nightlife.
+## Community
 
-## Optional
-
-- [NRG Zine Archive](https://blondish.world/journal/): Full archive of all NRG Zine articles on electronic music culture, sustainability, and conscious living.
-- [Events Archive](https://blondish.world/events/): Past and upcoming BLOND:ISH event listings with venue details.
-- [Releases Catalog](https://blondish.world/releases/): Complete chronological release catalog.
+- [Submit to NRG Zine](https://blondish.world/zine/submit/): Write for the zine — stories, mixes, photos, scene reports.
+- [NRG Zine Archive](https://blondish.world/zine/): Full article archive across all clusters.

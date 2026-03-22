@@ -33,7 +33,7 @@ require_once get_template_directory() . '/inc/media.php';
 // SEO & LLMO optimizations (venue/city/festival taxonomies, misspelling handling, CollectionPage schema)
 require_once get_template_directory() . '/inc/seo-optimizations.php';
 
-// NRG Zine (Journal) — pillar taxonomy, Article/FAQ schema, RSS feed
+// NRG Zine — cluster taxonomy, author personas, schema, UGC, breadcrumbs
 require_once get_template_directory() . '/inc/journal.php';
 
 /* ==========================================================================
